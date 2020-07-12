@@ -1,11 +1,12 @@
 ---
-title: "LIBROS POP-UP: OBRAS DE ARTE PARA NIÑOS Y ADULTOS"
+title: "Libros Pop-Up: Obras De Arte Para Niños y Adultos"
 date: 2020-07-11T19:43:33-04:00
 images:
   - /images/circus-zingaro.jpg
 description: asdf que bueno
 tags:
   - libros
+  - libros-pop-up
 draft: false
 ---
 
