@@ -69,7 +69,7 @@ url = "https://twitter.com/sami_arancibia"
   name = "Posts"
   weight = 200
   identifier = "posts"
-  url = "/posts/"
+  url = "/post/"
 
   [[menu.main]]
   name = "Acerca de"
