@@ -32,7 +32,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[params.socialIcons]]
 icon = "fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/samanta-a-69102028/"
 
 #[[params.socialIcons]]
 #icon = "fa-github"
@@ -75,4 +75,4 @@ url = "https://twitter.com/sami_arancibia"
   name = "Acerca de"
   weight = 300
   identifier = "acerca-de"
-  url = "/acerca-de/"
+  url = "/about/"
