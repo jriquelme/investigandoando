@@ -6,14 +6,14 @@ images:
 description: asdf que bueno
 tags:
   - libros
-draft: true
+draft: false
 ---
 
 Esta entrada es la primera de tres series sobre estos libros.
 
 ---
 
-{{< figure src="/images/circus-zingaro.jpg" caption="\"Circus Zingaro\", Tina Kraus" >}}
+{{< youtube f-JfIW_VAcE >}}
 
 Desde que nació mi hijo he comenzado a sumergirme en un nuevo mundo dentro de los libros, el mundo de los libros infantiles.
 Cuando tengo algo de tiempo suelo dedicarlo a buscar y buscar libros que me ayuden a estimular su interés por la lectura,
