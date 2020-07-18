@@ -1,6 +1,8 @@
 ---
 title: Acerca de mí
-description: Acerca Samanta Arancibia
 ---
 
-Puedes ver mi CV en [Linkedin](https://www.linkedin.com/in/samanta-a-69102028/).
+Hola, soy Sami Arancibia, psicóloga educacional, amante de la lectura e interesada en aprender cosas nuevas.
+
+En esta página podrás encontrar contenido diverso sobre  educación, libros, lugares, psicología y cualquier otro tema
+que encuentre digno de investigar y compartir.
