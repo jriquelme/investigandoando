@@ -3,18 +3,11 @@ title: "Libros Pop-Up: Obras De Arte Para Niños y Adultos"
 date: 2020-07-11T19:43:33-04:00
 images:
   - /images/circus-zingaro.jpg
-description: asdf que bueno
 tags:
   - libros
   - libros-pop-up
 draft: false
 ---
-
-Esta entrada es la primera de tres series sobre estos libros.
-
----
-
-{{< youtube f-JfIW_VAcE >}}
 
 Desde que nació mi hijo he comenzado a sumergirme en un nuevo mundo dentro de los libros, el mundo de los libros infantiles.
 Cuando tengo algo de tiempo suelo dedicarlo a buscar y buscar libros que me ayuden a estimular su interés por la lectura,
@@ -36,5 +29,9 @@ sobre los últimos libros pop-up disponibles en el mercado. Mi favorita es: [bes
 Y dentro de todos los libros pop-up que he visto, uno de mis preferidos es [“Circus Zingaro”](https://tinakraus.com/circus-zingaro-a-pop-up-book-finished/),
 de la ilustradora alemana Tina Kraus.
 
+{{< youtube f-JfIW_VAcE >}}
+
 Lamentablemente, este libro finalizado el año 2017 no está a la venta, pero de vez en cuando corroboro (hasta ahora sin
 éxito) si Tina ha decidido elaborar más ejemplares para su distribución.
+
+Esta entrada es la primera de tres series sobre estos libros.
